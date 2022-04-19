@@ -1,0 +1,149 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/account.vue",
+    "chunkName": "pages/account",
+    "_name": "_1cfacf09"
+  },
+  {
+    "name": "accountbackup",
+    "path": "/accountbackup",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/accountbackup.vue",
+    "chunkName": "pages/accountbackup",
+    "_name": "_3241bb0b"
+  },
+  {
+    "name": "cashout",
+    "path": "/cashout",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/cashout.vue",
+    "chunkName": "pages/cashout",
+    "_name": "_cc46ddd2"
+  },
+  {
+    "name": "detailea",
+    "path": "/detailea",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/detailea.vue",
+    "chunkName": "pages/detailea",
+    "_name": "_fdcadefe"
+  },
+  {
+    "name": "ea",
+    "path": "/ea",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/ea.vue",
+    "chunkName": "pages/ea",
+    "_name": "_37e135f0"
+  },
+  {
+    "name": "history",
+    "path": "/history",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/history.vue",
+    "chunkName": "pages/history",
+    "_name": "_0354c420"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/home/index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_290839f6"
+  },
+  {
+    "name": "index copy",
+    "path": "/index%20copy",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/index copy.vue",
+    "chunkName": "pages/index copy",
+    "_name": "_1a9ccbd7"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_7aa59936"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/logout.vue",
+    "chunkName": "pages/logout",
+    "_name": "_5e134c44"
+  },
+  {
+    "name": "redeem",
+    "path": "/redeem",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/redeem.vue",
+    "chunkName": "pages/redeem",
+    "_name": "_5bb0a4f0"
+  },
+  {
+    "name": "auth-forgot",
+    "path": "/auth/forgot",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/forgot.vue",
+    "chunkName": "pages/auth/forgot",
+    "_name": "_2ebf15c6"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_513b1e96"
+  },
+  {
+    "name": "auth-login copy",
+    "path": "/auth/login%20copy",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/login copy.vue",
+    "chunkName": "pages/auth/login copy",
+    "_name": "_77a9e26f"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_a5c52af4"
+  },
+  {
+    "name": "auth-reset",
+    "path": "/auth/reset",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/reset.vue",
+    "chunkName": "pages/auth/reset",
+    "_name": "_3055e97c"
+  },
+  {
+    "name": "auth-verified",
+    "path": "/auth/verified",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/verified.vue",
+    "chunkName": "pages/auth/verified",
+    "_name": "_841a7faa"
+  },
+  {
+    "name": "auth-verify",
+    "path": "/auth/verify",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/auth/verify.vue",
+    "chunkName": "pages/auth/verify",
+    "_name": "_0361201c"
+  },
+  {
+    "name": "home-about",
+    "path": "/home/about",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/home/about.vue",
+    "chunkName": "pages/home/about",
+    "_name": "_09505f31"
+  },
+  {
+    "name": "home-contract",
+    "path": "/home/contract",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/home/contract.vue",
+    "chunkName": "pages/home/contract",
+    "_name": "_e01bd0c4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/auttapongkompiban/Spec_dev/CloneCashback/cashback_frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6c25f42e"
+  }
+]

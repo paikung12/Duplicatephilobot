@@ -1,0 +1,155 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "AccountKyc": {
+    "description": "Auto imported from components/Account/Kyc.vue"
+  },
+  "AccountPartner": {
+    "description": "Auto imported from components/Account/Partner.vue"
+  },
+  "AccountProfile": {
+    "description": "Auto imported from components/Account/Profile.vue"
+  },
+  "AccountResetPassword": {
+    "description": "Auto imported from components/Account/ResetPassword.vue"
+  },
+  "AccountKYCIDCard": {
+    "description": "Auto imported from components/AccountKYC/IDCard.vue"
+  },
+  "AuthCaptcha": {
+    "description": "Auto imported from components/Auth/Captcha.vue"
+  },
+  "AuthSocialLogin": {
+    "description": "Auto imported from components/Auth/SocialLogin.vue"
+  },
+  "AuthSocialRegister": {
+    "description": "Auto imported from components/Auth/SocialRegister.vue"
+  },
+  "CashoutForm": {
+    "description": "Auto imported from components/Cashout/Form.vue"
+  },
+  "DashboardSlide": {
+    "description": "Auto imported from components/Dashboard/Slide.vue"
+  },
+  "CoreBg": {
+    "description": "Auto imported from components/Core/Bg.vue"
+  },
+  "CoreBgIndex": {
+    "description": "Auto imported from components/Core/BgIndex.vue"
+  },
+  "CoreBgProfile": {
+    "description": "Auto imported from components/Core/BgProfile.vue"
+  },
+  "CoreCity": {
+    "description": "Auto imported from components/Core/City.vue"
+  },
+  "CoreComma": {
+    "description": "Auto imported from components/Core/Comma.vue"
+  },
+  "CoreHeader": {
+    "description": "Auto imported from components/Core/Header.vue"
+  },
+  "CoreImageInput": {
+    "description": "Auto imported from components/Core/ImageInput.vue"
+  },
+  "CoreLoading": {
+    "description": "Auto imported from components/Core/Loading.vue"
+  },
+  "CoreNotification": {
+    "description": "Auto imported from components/Core/Notification.vue"
+  },
+  "CoreStatus": {
+    "description": "Auto imported from components/Core/Status.vue"
+  },
+  "CoreTierCard": {
+    "description": "Auto imported from components/Core/TierCard.vue"
+  },
+  "CoreTitle": {
+    "description": "Auto imported from components/Core/Title.vue"
+  },
+  "HistoryAccountTableApprove": {
+    "description": "Auto imported from components/HistoryAccount/TableApprove.vue"
+  },
+  "HistoryAccountTableReject": {
+    "description": "Auto imported from components/HistoryAccount/TableReject.vue"
+  },
+  "HistoryAccountTableRequestTest": {
+    "description": "Auto imported from components/HistoryAccount/TableRequestTest.vue"
+  },
+  "HomeContract": {
+    "description": "Auto imported from components/Home/Contract.vue"
+  },
+  "HomeFooter": {
+    "description": "Auto imported from components/Home/Footer.vue"
+  },
+  "HomeNavbar": {
+    "description": "Auto imported from components/Home/Navbar.vue"
+  },
+  "ProfilebrandCardBrand": {
+    "description": "Auto imported from components/Profilebrand/CardBrand.vue"
+  },
+  "ProfilebrandCardCondition": {
+    "description": "Auto imported from components/Profilebrand/CardCondition.vue"
+  },
+  "ProfilebrandRedeemList": {
+    "description": "Auto imported from components/Profilebrand/RedeemList.vue"
+  },
+  "RewardCountdown": {
+    "description": "Auto imported from components/Reward/Countdown.vue"
+  },
+  "RewardList": {
+    "description": "Auto imported from components/Reward/List.vue"
+  },
+  "RewardListDialog": {
+    "description": "Auto imported from components/Reward/ListDialog.vue"
+  },
+  "RewardMain": {
+    "description": "Auto imported from components/Reward/Main.vue"
+  },
+  "RewardMainBackup": {
+    "description": "Auto imported from components/Reward/MainBackup.vue"
+  },
+  "RewardTimmer": {
+    "description": "Auto imported from components/Reward/Timmer.vue"
+  },
+  "SemiAutoDetailEA": {
+    "description": "Auto imported from components/SemiAuto/DetailEA.vue"
+  },
+  "SemiAutoFromPurchase": {
+    "description": "Auto imported from components/SemiAuto/FromPurchase.vue"
+  },
+  "SemiAutoFromPurchaseBak": {
+    "description": "Auto imported from components/SemiAuto/FromPurchaseBak.vue"
+  },
+  "SemiAutoFromRequestTest": {
+    "description": "Auto imported from components/SemiAuto/FromRequestTest.vue"
+  },
+  "SemiAutoListSemiAuto": {
+    "description": "Auto imported from components/SemiAuto/ListSemiAuto.vue"
+  },
+  "UserMenuMainMenu": {
+    "description": "Auto imported from components/UserMenu/MainMenu.vue"
+  },
+  "UserMenuMainMenuBackup": {
+    "description": "Auto imported from components/UserMenu/MainMenuBackup.vue"
+  },
+  "UserMenuNavMenuGroup": {
+    "description": "Auto imported from components/UserMenu/NavMenuGroup.vue"
+  },
+  "UserMenuNavMenuSectionTitle": {
+    "description": "Auto imported from components/UserMenu/NavMenuSectionTitle.vue"
+  },
+  "UserMenuNavbarLink": {
+    "description": "Auto imported from components/UserMenu/NavbarLink.vue"
+  },
+  "UserMenu": {
+    "description": "Auto imported from components/UserMenu/UserMenu.vue"
+  }
+}
